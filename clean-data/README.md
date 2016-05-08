@@ -38,6 +38,7 @@ missed.
 
 - [R](https://www.r-project.org/) (>= 3.2.3)
 - [dplyr](https://github.com/hadley/dplyr) (>= 0.4.3)
+- [Rcpp](https://github.com/RcppCore/Rcpp)
 
 
 ## Reproduce Cleaning and Combining of Data
